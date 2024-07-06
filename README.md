@@ -2,14 +2,14 @@
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 
-A vim colorscheme for use with **[pywal](https://github.com/dylanaraps/pywal)**.
+A vim colorscheme for use with **[pywal](https://github.com/holmescharles/pywal)**.
 
 
 ## Installation
 
 ```vim
 " Using plug
-Plug 'dylanaraps/wal.vim'
+Plug 'holmescharles/wal.vim'
 
 colorscheme wal
 ```
